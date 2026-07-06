@@ -7,7 +7,7 @@ You should comment out all portions of your portfolio that you have not complete
 <!--- Anything between these symbols will not render on the published site -->
 ```
 
-| **Austin Hu** | **Homestead High School** | **Engineering** | **Incoming 10th Grader** |
+| **Austin H** | **Homestead High School** | **Engineering** | **Incoming 10th Grader** |
 |:--:|:--:|:--:|:--:|
 | FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
 
