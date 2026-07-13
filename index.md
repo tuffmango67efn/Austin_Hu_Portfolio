@@ -1,5 +1,5 @@
 # Mini Tank Robot
-My project is the Mini Tank Robot
+My project is the Mini Tank Robot. It is a robot that resembles a tank and can both move autonomously or by remote bluetooth controller. I chose this project mainly because I think the robot's design itself looks cool and fun to build.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -8,8 +8,8 @@ You should comment out all portions of your portfolio that you have not complete
 ```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
-|Austin H|Homestead High School|Engineering|Incoming 10th Grader|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+|Austin H|Homestead High School|Engineering|Incoming Sophomore|
+
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
