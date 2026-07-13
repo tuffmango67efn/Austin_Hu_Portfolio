@@ -1,11 +1,5 @@
 # Mini Tank Robot
-My project is the Mini Tank Robot. It is a robot that resembles a tank and can both move autonomously or by remote bluetooth controller. I chose this project mainly because I think the robot's design itself looks cool and fun to build.
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+My project is the Mini Tank Robot. It is a robot that resembles a tank that can be controlled by a remote bluetooth controller. I chose this project mainly because I think the robot's design itself looks cool and fun to build. I built the robot to make it be able to move autonomously and be controlled.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |Austin H|Homestead High School|Engineering|Incoming Sophomore|
