@@ -29,11 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+In the second milestone, my goal was to be able to make two functions work at the same time. I was able to get the robot moving by the bluetooth controller and I made the LED board start flashing. The project was not as difficult as I thought it would be before coming into this summer program. One of my biggest challenges was fixing errors within the code. For my final milestone, I plan to make three functions work simultaneously and add on my modification. My modification will be to
 
 # Final Milestone
 
