@@ -10,7 +10,7 @@ My project is the Mini Tank Robot named Austin. It is a robot that resembles a t
   
 # First Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-zEXSaoK4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/watch?v=-zEXSaoK4Kc](https://www.youtube.com/embed/-zEXSaoK4Kc)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My first milestone will be assembling the physical body of the robot using all the components such as the motors, battery, and wheels. One of the biggest challenges in completing this milestone was that the instructions were very unclear and the images were not detailed enough. Additionally, there are many small screws and parts where it is really hard to wire up.
 
