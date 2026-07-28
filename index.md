@@ -1,7 +1,7 @@
 # Mini Tank Robot
 My project is the Mini Tank Robot named Austin. It is a robot that resembles a tank that can be controlled by a remote bluetooth controller. I chose this project mainly because I think the robot's design itself looks cool and fun to build. I built the robot and made it ultrasonic following and able to follow my flashlight which is my modification. My plan to complete my project is divided into 3 milestones. My 1st milestone will be to simply assemble the physical body of the robot. My second milestone is to get the robot moving by the mobile app through bluetooth. My last milestone will be to program the robot to be ultrasonic following where it can follow my hand wherever it goes. For my modification, I plan to make my robot light following meaning that if I shine a flashlight, the robot will follow.
 
-|Austin H|Homestead High School|Engineering|Incoming Sophomore|
+|Austin H| |Homestead High School| |Engineering| |Incoming Sophomore|
 
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
