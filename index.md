@@ -10,22 +10,17 @@ My project is the Mini Tank Robot named Austin. It is a robot that resembles a t
   
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-zEXSaoK4Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 My first milestone will be assembling the physical body of the robot using all the components such as the motors, battery, and wheels. One of the biggest challenges in completing this milestone was that the instructions were very unclear and the images were not detailed enough. Additionally, there are many small screws and parts where it is really hard to wire up.
 
 # Second Milestonez
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=royftR4s4Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In the second milestone, my goal was to be able to make two functions work at the same time. I was able to get the robot moving by the bluetooth controller and I made the LED board start flashing. The project was not as difficult as I thought it would be before coming into this summer program. One of my biggest challenges was fixing errors within the code. For my final milestone, I plan to make three functions work simultaneously and add on my modification. My modification will be to
 
 # Final Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=okEF07TcLl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
